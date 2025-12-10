@@ -1,5 +1,5 @@
 # CyberOK update script
-# Скачивает список IP и добавляет в address-list
+# Скачивает список IP и добавляет в address-list 
 
 /system script remove [find name="update-cyberok-list"]
 
